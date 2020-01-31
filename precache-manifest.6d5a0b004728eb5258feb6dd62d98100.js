@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "690fa0d46182572f102d4b6ba875a482",
+    "revision": "1a3f82ce21fa72d5b6b5d484843d985c",
     "url": "/Women-s-beauty/index.html"
   },
   {
-    "revision": "7c570ace118fc2739472",
-    "url": "/Women-s-beauty/static/css/main.993455d3.chunk.css"
+    "revision": "51d43a22b4561c034039",
+    "url": "/Women-s-beauty/static/css/main.3aebf4f3.chunk.css"
   },
   {
-    "revision": "1dc70be817d4afc1927f",
-    "url": "/Women-s-beauty/static/js/2.2025811c.chunk.js"
+    "revision": "49b4f787a275e79383ed",
+    "url": "/Women-s-beauty/static/js/2.7cda71f7.chunk.js"
   },
   {
-    "revision": "b51e62edbcf7a9c4f4ad13f506021d3e",
-    "url": "/Women-s-beauty/static/js/2.2025811c.chunk.js.LICENSE"
+    "revision": "a58d60b4914e1164d175ad7f57a8d682",
+    "url": "/Women-s-beauty/static/js/2.7cda71f7.chunk.js.LICENSE"
   },
   {
-    "revision": "7c570ace118fc2739472",
-    "url": "/Women-s-beauty/static/js/main.c8384904.chunk.js"
+    "revision": "51d43a22b4561c034039",
+    "url": "/Women-s-beauty/static/js/main.3ad2858d.chunk.js"
   },
   {
     "revision": "0ee02334566a3a3a46b9",
@@ -28,8 +28,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Women-s-beauty/static/media/Women.c3aca4c1.png"
   },
   {
-    "revision": "a776baf1ea3e1c4d6482bc1ff8a0f01c",
-    "url": "/Women-s-beauty/static/media/fit.a776baf1.jpg"
+    "revision": "46a052547d38789a648cb4cbb155a90e",
+    "url": "/Women-s-beauty/static/media/ballerina-3055155.46a05254.jpg"
   },
   {
     "revision": "9ee1e8e0ff1c9dca8a51a32f807c250f",
@@ -50,5 +50,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "12de1eb1c760c2b3e6dce157bdc3972f",
     "url": "/Women-s-beauty/static/media/p4.12de1eb1.png"
+  },
+  {
+    "revision": "ccee5177d1ddf4c6de5fc3d38a1b4c52",
+    "url": "/Women-s-beauty/static/media/zumba1.ccee5177.png"
   }
 ]);

@@ -1,25 +1,24 @@
 {
   "files": {
-    "main.css": "/Women-s-beauty/static/css/main.993455d3.chunk.css",
-    "main.js": "/Women-s-beauty/static/js/main.c8384904.chunk.js",
-    "main.js.map": "/Women-s-beauty/static/js/main.c8384904.chunk.js.map",
+    "main.css": "/Women-s-beauty/static/css/main.3aebf4f3.chunk.css",
+    "main.js": "/Women-s-beauty/static/js/main.3ad2858d.chunk.js",
+    "main.js.map": "/Women-s-beauty/static/js/main.3ad2858d.chunk.js.map",
     "runtime-main.js": "/Women-s-beauty/static/js/runtime-main.c5069289.js",
     "runtime-main.js.map": "/Women-s-beauty/static/js/runtime-main.c5069289.js.map",
-    "static/js/2.2025811c.chunk.js": "/Women-s-beauty/static/js/2.2025811c.chunk.js",
-    "static/js/2.2025811c.chunk.js.map": "/Women-s-beauty/static/js/2.2025811c.chunk.js.map",
+    "static/js/2.7cda71f7.chunk.js": "/Women-s-beauty/static/js/2.7cda71f7.chunk.js",
+    "static/js/2.7cda71f7.chunk.js.map": "/Women-s-beauty/static/js/2.7cda71f7.chunk.js.map",
     "index.html": "/Women-s-beauty/index.html",
-    "precache-manifest.bd7b8291ac0e762a5e4e3916d56a7d5b.js": "/Women-s-beauty/precache-manifest.bd7b8291ac0e762a5e4e3916d56a7d5b.js",
+    "precache-manifest.6d5a0b004728eb5258feb6dd62d98100.js": "/Women-s-beauty/precache-manifest.6d5a0b004728eb5258feb6dd62d98100.js",
     "service-worker.js": "/Women-s-beauty/service-worker.js",
-    "static/css/main.993455d3.chunk.css.map": "/Women-s-beauty/static/css/main.993455d3.chunk.css.map",
-    "static/js/2.2025811c.chunk.js.LICENSE": "/Women-s-beauty/static/js/2.2025811c.chunk.js.LICENSE",
+    "static/css/main.3aebf4f3.chunk.css.map": "/Women-s-beauty/static/css/main.3aebf4f3.chunk.css.map",
+    "static/js/2.7cda71f7.chunk.js.LICENSE": "/Women-s-beauty/static/js/2.7cda71f7.chunk.js.LICENSE",
     "static/media/Women.png": "/Women-s-beauty/static/media/Women.c3aca4c1.png",
-    "static/media/App.scss": "/Women-s-beauty/static/media/p4.12de1eb1.png",
-    "static/media/p2.png": "/Women-s-beauty/static/media/p2.047c36cb.png"
+    "static/media/App.scss": "/Women-s-beauty/static/media/zumba1.ccee5177.png"
   },
   "entrypoints": [
     "static/js/runtime-main.c5069289.js",
-    "static/js/2.2025811c.chunk.js",
-    "static/css/main.993455d3.chunk.css",
-    "static/js/main.c8384904.chunk.js"
+    "static/js/2.7cda71f7.chunk.js",
+    "static/css/main.3aebf4f3.chunk.css",
+    "static/js/main.3ad2858d.chunk.js"
   ]
 }
