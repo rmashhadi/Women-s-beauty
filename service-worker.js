@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Women-s-beauty/precache-manifest.50dcfa12439c54e2e721556455c4fa6f.js"
+  "/Women-s-beauty/precache-manifest.025cb2868c7c0a1286ca91f035f5debe.js"
 );
 
 self.addEventListener('message', (event) => {
