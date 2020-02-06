@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Women-s-beauty/static/css/main.e8fe79a5.chunk.css",
-    "main.js": "/Women-s-beauty/static/js/main.2cfa1090.chunk.js",
-    "main.js.map": "/Women-s-beauty/static/js/main.2cfa1090.chunk.js.map",
+    "main.css": "/Women-s-beauty/static/css/main.94b431f2.chunk.css",
+    "main.js": "/Women-s-beauty/static/js/main.ccf3616b.chunk.js",
+    "main.js.map": "/Women-s-beauty/static/js/main.ccf3616b.chunk.js.map",
     "runtime-main.js": "/Women-s-beauty/static/js/runtime-main.c5069289.js",
     "runtime-main.js.map": "/Women-s-beauty/static/js/runtime-main.c5069289.js.map",
     "static/js/2.bcecbffd.chunk.js": "/Women-s-beauty/static/js/2.bcecbffd.chunk.js",
     "static/js/2.bcecbffd.chunk.js.map": "/Women-s-beauty/static/js/2.bcecbffd.chunk.js.map",
     "index.html": "/Women-s-beauty/index.html",
-    "precache-manifest.025cb2868c7c0a1286ca91f035f5debe.js": "/Women-s-beauty/precache-manifest.025cb2868c7c0a1286ca91f035f5debe.js",
+    "precache-manifest.12863f6a4aedb94859ce63cdaa4c9cba.js": "/Women-s-beauty/precache-manifest.12863f6a4aedb94859ce63cdaa4c9cba.js",
     "service-worker.js": "/Women-s-beauty/service-worker.js",
-    "static/css/main.e8fe79a5.chunk.css.map": "/Women-s-beauty/static/css/main.e8fe79a5.chunk.css.map",
+    "static/css/main.94b431f2.chunk.css.map": "/Women-s-beauty/static/css/main.94b431f2.chunk.css.map",
     "static/js/2.bcecbffd.chunk.js.LICENSE": "/Women-s-beauty/static/js/2.bcecbffd.chunk.js.LICENSE",
     "static/media/Women.png": "/Women-s-beauty/static/media/Women.c3aca4c1.png",
     "static/media/App.scss": "/Women-s-beauty/static/media/zumba1.ccee5177.png"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.c5069289.js",
     "static/js/2.bcecbffd.chunk.js",
-    "static/css/main.e8fe79a5.chunk.css",
-    "static/js/main.2cfa1090.chunk.js"
+    "static/css/main.94b431f2.chunk.css",
+    "static/js/main.ccf3616b.chunk.js"
   ]
 }

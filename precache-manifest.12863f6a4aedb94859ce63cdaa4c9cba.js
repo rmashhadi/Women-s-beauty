@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "84edfcd5d364e716289856a9e35e8656",
+    "revision": "f429714678497dba3961c9c260bff6b0",
     "url": "/Women-s-beauty/index.html"
   },
   {
-    "revision": "261543f8ae6203a33851",
-    "url": "/Women-s-beauty/static/css/main.e8fe79a5.chunk.css"
+    "revision": "0770934655374ba9ebe7",
+    "url": "/Women-s-beauty/static/css/main.94b431f2.chunk.css"
   },
   {
     "revision": "28e0f32357264b8f407b",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Women-s-beauty/static/js/2.bcecbffd.chunk.js.LICENSE"
   },
   {
-    "revision": "261543f8ae6203a33851",
-    "url": "/Women-s-beauty/static/js/main.2cfa1090.chunk.js"
+    "revision": "0770934655374ba9ebe7",
+    "url": "/Women-s-beauty/static/js/main.ccf3616b.chunk.js"
   },
   {
     "revision": "0ee02334566a3a3a46b9",
