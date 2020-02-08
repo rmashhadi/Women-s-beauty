@@ -1,27 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5bf5788265c7c8d7369f03b440c5d1d2",
+    "revision": "6fac76a5f8e0c8e5c320f7c3110fb88d",
     "url": "/Women-s-beauty/index.html"
   },
   {
-    "revision": "551b2fe1d530ccd67584",
-    "url": "/Women-s-beauty/static/css/main.5a305be7.chunk.css"
+    "revision": "e06445c2e0a270ffd155",
+    "url": "/Women-s-beauty/static/css/main.79f3ea2e.chunk.css"
   },
   {
-    "revision": "28e0f32357264b8f407b",
-    "url": "/Women-s-beauty/static/js/2.bcecbffd.chunk.js"
+    "revision": "6f96d6648d28f0ee7e8f",
+    "url": "/Women-s-beauty/static/js/2.45e301b8.chunk.js"
   },
   {
     "revision": "a58d60b4914e1164d175ad7f57a8d682",
-    "url": "/Women-s-beauty/static/js/2.bcecbffd.chunk.js.LICENSE"
+    "url": "/Women-s-beauty/static/js/2.45e301b8.chunk.js.LICENSE"
   },
   {
-    "revision": "551b2fe1d530ccd67584",
-    "url": "/Women-s-beauty/static/js/main.ea0158a7.chunk.js"
+    "revision": "77a52c86d9801a696160",
+    "url": "/Women-s-beauty/static/js/3.7d68c061.chunk.js"
   },
   {
-    "revision": "0ee02334566a3a3a46b9",
-    "url": "/Women-s-beauty/static/js/runtime-main.c5069289.js"
+    "revision": "e06445c2e0a270ffd155",
+    "url": "/Women-s-beauty/static/js/main.b8a2c5fb.chunk.js"
+  },
+  {
+    "revision": "8834d36a36b9e2240a5d",
+    "url": "/Women-s-beauty/static/js/runtime-main.666baadb.js"
   },
   {
     "revision": "c3aca4c1dd91f52e5b7c6b522e9c581d",
@@ -32,8 +36,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Women-s-beauty/static/media/ballerina-3055155.46a05254.jpg"
   },
   {
-    "revision": "9ee1e8e0ff1c9dca8a51a32f807c250f",
-    "url": "/Women-s-beauty/static/media/keira-knightley.9ee1e8e0.png"
+    "revision": "68a482fb3da1901b46f0851404e315e8",
+    "url": "/Women-s-beauty/static/media/keira-knightley.68a482fb.jpg"
   },
   {
     "revision": "706e84c76f84e2671f1ecb2ca29afcd3",
