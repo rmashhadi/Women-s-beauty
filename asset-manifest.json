@@ -1,28 +1,24 @@
 {
   "files": {
-    "main.css": "/Women-s-beauty/static/css/main.2507000e.chunk.css",
-    "main.js": "/Women-s-beauty/static/js/main.5aa4f2f2.chunk.js",
-    "main.js.map": "/Women-s-beauty/static/js/main.5aa4f2f2.chunk.js.map",
-    "runtime-main.js": "/Women-s-beauty/static/js/runtime-main.2d8255ff.js",
-    "runtime-main.js.map": "/Women-s-beauty/static/js/runtime-main.2d8255ff.js.map",
-    "static/js/2.69e2b416.chunk.js": "/Women-s-beauty/static/js/2.69e2b416.chunk.js",
-    "static/js/2.69e2b416.chunk.js.map": "/Women-s-beauty/static/js/2.69e2b416.chunk.js.map",
-    "static/js/3.621b7c7a.chunk.js": "/Women-s-beauty/static/js/3.621b7c7a.chunk.js",
-    "static/js/3.621b7c7a.chunk.js.map": "/Women-s-beauty/static/js/3.621b7c7a.chunk.js.map",
-    "static/js/4.81c7131d.chunk.js": "/Women-s-beauty/static/js/4.81c7131d.chunk.js",
-    "static/js/4.81c7131d.chunk.js.map": "/Women-s-beauty/static/js/4.81c7131d.chunk.js.map",
+    "main.css": "/Women-s-beauty/static/css/main.596bdc62.chunk.css",
+    "main.js": "/Women-s-beauty/static/js/main.f9e5c284.chunk.js",
+    "main.js.map": "/Women-s-beauty/static/js/main.f9e5c284.chunk.js.map",
+    "runtime-main.js": "/Women-s-beauty/static/js/runtime-main.c5069289.js",
+    "runtime-main.js.map": "/Women-s-beauty/static/js/runtime-main.c5069289.js.map",
+    "static/js/2.c316c89c.chunk.js": "/Women-s-beauty/static/js/2.c316c89c.chunk.js",
+    "static/js/2.c316c89c.chunk.js.map": "/Women-s-beauty/static/js/2.c316c89c.chunk.js.map",
     "index.html": "/Women-s-beauty/index.html",
-    "precache-manifest.1b5a67416be14a4d590c12eb2b373b23.js": "/Women-s-beauty/precache-manifest.1b5a67416be14a4d590c12eb2b373b23.js",
+    "precache-manifest.55d9569980951de90054eb7a6ac068d4.js": "/Women-s-beauty/precache-manifest.55d9569980951de90054eb7a6ac068d4.js",
     "service-worker.js": "/Women-s-beauty/service-worker.js",
-    "static/css/main.2507000e.chunk.css.map": "/Women-s-beauty/static/css/main.2507000e.chunk.css.map",
-    "static/js/2.69e2b416.chunk.js.LICENSE": "/Women-s-beauty/static/js/2.69e2b416.chunk.js.LICENSE",
+    "static/css/main.596bdc62.chunk.css.map": "/Women-s-beauty/static/css/main.596bdc62.chunk.css.map",
+    "static/js/2.c316c89c.chunk.js.LICENSE": "/Women-s-beauty/static/js/2.c316c89c.chunk.js.LICENSE",
     "static/media/App.scss": "/Women-s-beauty/static/media/zumba1.ccee5177.png",
     "static/media/Women.png": "/Women-s-beauty/static/media/Women.c3aca4c1.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.2d8255ff.js",
-    "static/js/2.69e2b416.chunk.js",
-    "static/css/main.2507000e.chunk.css",
-    "static/js/main.5aa4f2f2.chunk.js"
+    "static/js/runtime-main.c5069289.js",
+    "static/js/2.c316c89c.chunk.js",
+    "static/css/main.596bdc62.chunk.css",
+    "static/js/main.f9e5c284.chunk.js"
   ]
 }
